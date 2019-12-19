@@ -1,0 +1,31 @@
+
+
+const myFile1 = {
+"id_1": {
+"a": {"key1":"value_1"},
+"b": {"key1":"value_1"}
+},
+"id_2": {
+"some_key": "some_value"
+},
+"id_3": {
+"a": {"key1":"value_1"},
+"b": {"key1":"value_1"}
+}
+}
+
+
+const myFile2 = {
+"id_1": {
+"a": {"key1":"value_1"},
+"b": {"key1":"value_1"}
+},
+"id_2": {
+"some_key": "some_value"
+},
+"id_3": {
+"a": {"key1":"value_2"},
+"b": {"key1":"value_2"}
+}
+}
+
